@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513496247722",
+    "project_id": "password-manager-andrew-clubb",
+    "storage_bucket": "password-manager-andrew-clubb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513496247722:android:73c92b714dcd4805d44fd3",
+        "android_client_info": {
+          "package_name": "com.example.password_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513496247722-b3u7qmc6sq2fhbr7p7b7279o8tkvdf4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.password_manager",
+            "certificate_hash": "fac3127f87b457a2a6eda599ad43d630735d506e"
+          }
+        },
+        {
+          "client_id": "513496247722-8g12sa24iqign34mfq2i0s7uhlupsi86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Zo2epDWG8tteeUB2vQtbNvoiT388zWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513496247722-8g12sa24iqign34mfq2i0s7uhlupsi86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
